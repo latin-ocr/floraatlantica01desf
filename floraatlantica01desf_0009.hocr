@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraatlantica01desf_0009.png"; bbox 0 0 2323 3180; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 128 78 1720 278">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 128 78 1720 278">
+     <span class='ocr_line' id='line_1_1' title="bbox 128 78 1720 278; baseline 0.009 -36"><span class='ocrx_word' id='word_1_1' title='bbox 128 78 648 243; x_wconf 72' lang='lat' dir='ltr'><strong>FLORA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 764 153 1720 278; x_wconf 77' lang='lat' dir='ltr'><strong>ATLANTICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 813 386 1066 435">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 813 386 1066 435">
+     <span class='ocr_line' id='line_1_2' title="bbox 813 386 1066 435; baseline 0.016 -4"><span class='ocrx_word' id='word_1_3' title='bbox 813 386 1066 435; x_wconf 84' lang='lat' dir='ltr'>SIVE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 182 576 1691 672">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 182 576 1691 672">
+     <span class='ocr_line' id='line_1_3' title="bbox 182 576 1691 672; baseline 0.009 -24"><span class='ocrx_word' id='word_1_4' title='bbox 182 576 801 649; x_wconf 82' lang='lat' dir='ltr'>HISTORIA</span> <span class='ocrx_word' id='word_1_5' title='bbox 890 579 1691 672; x_wconf 82' lang='lat' dir='ltr'><strong>PLANTARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 146 789 1724 855">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 146 789 1724 855">
+     <span class='ocr_line' id='line_1_4' title="bbox 146 789 1724 855; baseline 0.009 -20"><span class='ocrx_word' id='word_1_6' title='bbox 146 789 322 855; x_wconf 68' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 378 791 462 837; x_wconf 94' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 516 791 933 846; x_wconf 87' lang='lat' dir='ltr'>ATLANTE,</span> <span class='ocrx_word' id='word_1_9' title='bbox 985 792 1214 838; x_wconf 88' lang='lat' dir='ltr'>AGRO</span> <span class='ocrx_word' id='word_1_10' title='bbox 1275 796 1724 849; x_wconf 87' lang='lat' dir='ltr'><strong>TUNETANO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 340 969 1531 1017">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 340 969 1531 1017">
+     <span class='ocr_line' id='line_1_5' title="bbox 340 969 1531 1017; baseline 0.008 -9"><span class='ocrx_word' id='word_1_11' title='bbox 340 970 434 1009; x_wconf 85' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 505 969 1007 1010; x_wconf 87' lang='lat' dir='ltr'>ALGERIENSI</span> <span class='ocrx_word' id='word_1_13' title='bbox 1080 972 1531 1017; x_wconf 80' lang='lat' dir='ltr'><strong>CRESCUNT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 110 1149 1750 1216">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 110 1149 1750 1216">
+     <span class='ocr_line' id='line_1_6' title="bbox 110 1149 1750 1216; baseline 0.01 -22"><span class='ocrx_word' id='word_1_14' title='bbox 110 1149 412 1197; x_wconf 86' lang='lat' dir='ltr'>AUCTORE</span> <span class='ocrx_word' id='word_1_15' title='bbox 464 1154 784 1199; x_wconf 86' lang='lat' dir='ltr'><strong>RENATO</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 838 1155 1472 1216; x_wconf 84' lang='lat' dir='ltr'><strong>DESFONTAINES,</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1520 1163 1750 1212; x_wconf 82' lang='lat' dir='ltr'><strong>Instituti</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 178 1231 1746 1387">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 178 1231 1746 1387">
+     <span class='ocr_line' id='line_1_7' title="bbox 179 1231 1746 1295; baseline 0.011 -19"><span class='ocrx_word' id='word_1_18' title='bbox 179 1231 453 1277; x_wconf 76' lang='lat' dir='ltr'><strong>nationalis</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 481 1234 820 1279; x_wconf 76' lang='lat' dir='ltr'><strong>Scientiarum</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 848 1236 1026 1283; x_wconf 78' lang='lat' dir='ltr'>Galliae</span> <span class='ocrx_word' id='word_1_21' title='bbox 1047 1242 1192 1287; x_wconf 87' lang='lat' dir='ltr'>socio</span> <span class='ocrx_word' id='word_1_22' title='bbox 1212 1281 1221 1295; x_wconf 89' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 1247 1259 1457 1288; x_wconf 83' lang='lat' dir='ltr'><strong>necnon</strong></span> <span class='ocrx_word' id='word_1_24' title='bbox 1482 1243 1536 1289; x_wconf 88' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_25' title='bbox 1563 1247 1746 1294; x_wconf 82' lang='lat' dir='ltr'>Museo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 178 1311 1620 1387; baseline 0.011 -31"><span class='ocrx_word' id='word_1_26' title='bbox 178 1311 417 1359; x_wconf 81' lang='lat' dir='ltr'>Historiae</span> <span class='ocrx_word' id='word_1_27' title='bbox 446 1314 686 1362; x_wconf 78' lang='lat' dir='ltr'><strong>naturalis</strong></span> <span class='ocrx_word' id='word_1_28' title='bbox 716 1316 976 1365; x_wconf 78' lang='lat' dir='ltr'><strong>Parisiensi</strong></span> <span class='ocrx_word' id='word_1_29' title='bbox 1006 1323 1279 1370; x_wconf 76' lang='lat' dir='ltr'><strong>Botanices</strong></span> <span class='ocrx_word' id='word_1_30' title='bbox 1309 1323 1620 1387; x_wconf 83' lang='lat' dir='ltr'>professore.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 321 1719 1522 1788">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 321 1719 1522 1788">
+     <span class='ocr_line' id='line_1_9' title="bbox 321 1719 1522 1788; baseline 0.01 -15"><span class='ocrx_word' id='word_1_31' title='bbox 321 1719 798 1778; x_wconf 86' lang='lat' dir='ltr'>TOMUS</span> <span class='ocrx_word' id='word_1_32' title='bbox 955 1727 1522 1788; x_wconf 87' lang='lat' dir='ltr'><strong>PRIMUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 451 1967 1393 2019">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 451 1967 1393 2019">
+     <span class='ocr_line' id='line_1_10' title="bbox 451 1967 1393 2019; baseline 0.002 -3"><span class='ocrx_word' id='word_1_33' title='bbox 451 1969 619 2018; x_wconf 60' lang='lat' dir='ltr'><strong>312AE</strong></span> <span class='ocrx_word' id='word_1_34' title='bbox 751 1967 1230 2019; x_wconf 55' lang='lat' dir='ltr'><strong>,JADJAALNHC</strong></span> <span class='ocrx_word' id='word_1_35' title='bbox 1262 1974 1312 2018; x_wconf 65' lang='lat' dir='ltr'><strong>JK</strong></span> <span class='ocrx_word' id='word_1_36' title='bbox 1345 1968 1393 2018; x_wconf 65' lang='lat' dir='ltr'><strong>S.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 609 2243 1228 2297">
+    <p class='ocr_par' dir='ltr' id='par_1_10' title="bbox 609 2243 1228 2297">
+     <span class='ocr_line' id='line_1_11' title="bbox 609 2243 1228 2297; baseline 0.002 -8"><span class='ocrx_word' id='word_1_37' title='bbox 609 2243 1228 2297; x_wconf 81' lang='lat' dir='ltr'>PARISIIS‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 96 2356 1733 2475">
+    <p class='ocr_par' dir='ltr' id='par_1_11' title="bbox 96 2356 1733 2475">
+     <span class='ocr_line' id='line_1_12' title="bbox 96 2356 1733 2413; baseline 0.002 -15"><span class='ocrx_word' id='word_1_38' title='bbox 96 2359 232 2412; x_wconf 84' lang='lat' dir='ltr'>Apud</span> <span class='ocrx_word' id='word_1_39' title='bbox 265 2358 666 2404; x_wconf 70' lang='lat' dir='ltr'><strong>BLANCHON‚</strong></span> <span class='ocrx_word' id='word_1_40' title='bbox 702 2358 749 2396; x_wconf 89' lang='lat' dir='ltr'><strong>Bi</strong></span> <span class='ocrx_word' id='word_1_41' title='bbox 754 2358 812 2396; x_wconf 91' lang='lat' dir='ltr'><strong>bli</strong></span> <span class='ocrx_word' id='word_1_42' title='bbox 802 2359 949 2411; x_wconf 78' lang='lat' dir='ltr'>lopola</span> <span class='ocrx_word' id='word_1_43' title='bbox 955 2373 996 2397; x_wconf 88' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_44' title='bbox 1020 2392 1028 2403; x_wconf 90' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_45' title='bbox 1060 2356 1125 2396; x_wconf 61' lang='lat' dir='ltr'><strong>viai</strong></span> <span class='ocrx_word' id='word_1_46' title='bbox 1165 2357 1368 2396; x_wconf 77' lang='lat' dir='ltr'>Palmulae</span> <span class='ocrx_word' id='word_1_47' title='bbox 1389 2391 1398 2405; x_wconf 81' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_48' title='bbox 1434 2360 1595 2413; x_wconf 71' lang='lat' dir='ltr'>(vulgo</span> <span class='ocrx_word' id='word_1_49' title='bbox 1618 2394 1625 2407; x_wconf 89' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_50' title='bbox 1657 2375 1733 2402; x_wconf 78' lang='lat' dir='ltr'><strong>rue</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 621 2424 1213 2475; baseline 0.003 -13"><span class='ocrx_word' id='word_1_51' title='bbox 621 2425 678 2463; x_wconf 89' lang='lat' dir='ltr'><strong>du</strong></span> <span class='ocrx_word' id='word_1_52' title='bbox 701 2424 922 2475; x_wconf 68' lang='lat' dir='ltr'><strong>Battoir)7</strong></span> <span class='ocrx_word' id='word_1_53' title='bbox 959 2424 1020 2462; x_wconf 72' lang='grc' dir='ltr'><strong>ΝΟ</strong></span> <span class='ocrx_word' id='word_1_54' title='bbox 1054 2438 1067 2462; x_wconf 90' lang='grc'><strong>1</strong></span> <span class='ocrx_word' id='word_1_55' title='bbox 1103 2435 1144 2463; x_wconf 82' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_56' title='bbox 1176 2437 1213 2464; x_wconf 80' lang='lat'><strong>2.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 357 2560 1461 2614">
+    <p class='ocr_par' dir='ltr' id='par_1_12' title="bbox 357 2560 1461 2614">
+     <span class='ocr_line' id='line_1_14' title="bbox 357 2560 1461 2614; baseline 0.002 -14"><span class='ocrx_word' id='word_1_57' title='bbox 357 2562 479 2614; x_wconf 88' lang='lat' dir='ltr'>Typis</span> <span class='ocrx_word' id='word_1_58' title='bbox 523 2564 568 2599; x_wconf 93' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_59' title='bbox 614 2560 1087 2599; x_wconf 87' lang='lat' dir='ltr'><strong>PANCKOUCKE.</strong></span> <span class='ocrx_word' id='word_1_60' title='bbox 1162 2562 1218 2599; x_wconf 88' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_61' title='bbox 1266 2564 1461 2602; x_wconf 86' lang='lat' dir='ltr'><strong>DCCC.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_13' title="bbox 1632 215 1928 477">
+    <p class='ocr_par' dir='ltr' id='par_1_13' title="bbox 1632 215 1928 477">
+     <span class='ocr_line' id='line_1_15' title="bbox 1632 215 1928 477; baseline 0 -168"><span class='ocrx_word' id='word_1_62' title='bbox 1632 309 1684 477; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_63' title='bbox 1720 215 1928 309; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
